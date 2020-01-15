@@ -1,2 +1,2 @@
-# Boas-vindas-ao-novo-mundo
-Repositório de proprietário que possivelmente não sabe o que é um repositório
+# Bem-vindo
+Eu estou tentando python mas pretendo estudar JS e Java posteriomente    
